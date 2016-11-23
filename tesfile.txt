@@ -1,3 +1,7 @@
+amend
+
+test, test, test
+
 
 Again, I am testing Intelli J IDEA with git
 
