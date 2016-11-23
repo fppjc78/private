@@ -1,4 +1,7 @@
 
+Again, I am testing Intelli J IDEA with git
+
+
 this is amend test
 
 
